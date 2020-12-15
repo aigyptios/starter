@@ -1,0 +1,2 @@
+# starter
+A JavaScript starter
